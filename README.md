@@ -80,9 +80,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&perline=5" />
-    <img src="https://skillicons.dev/icons?i= react,nextjs,nodejs,threejs,express,graphql &perline=6" />
-    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,css, sass,&perline=5" />
-        <img src="https://skillicons.dev/icons?i= mongodb,mysql,sqlite,postgres,dynamodb&perline=5" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,express,graphql &perline=6" />   <br/>
+    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,css,sass&perline=5" />   <br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,dynamodb&perline=5" />   <br/>
 <!--     <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,react,nextjs,nodejs,express,bootstrap,css,tailwind,mongodb,mysql,docker,aws,figma&perline=5" />
  -->
         <img src="https://skillicons.dev/icons?i=docker,aws,webpack,jest,figma&perline=5" />
