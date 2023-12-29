@@ -80,10 +80,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&perline=5" margin="10px"/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,express,graphql &perline=6"  style="margin: 10px;"/>   <br/>
-    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,css,sass&perline=5"  style="margin: 10px;"/>   <br/>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,dynamodb&perline=5" style="margin: 10px;"/>   <br/>
+    <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,express,graphql &perline=6"  style="margin: 10px;"/>   <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,css,sass&perline=5"  style="margin: 10px;"/>   <br/> <br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,dynamodb&perline=5" style="margin: 10px;"/>   <br/> <br/>
 <!--     <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,react,nextjs,nodejs,express,bootstrap,css,tailwind,mongodb,mysql,docker,aws,figma&perline=5" />
  -->
         <img src="https://skillicons.dev/icons?i=docker,aws,webpack,jest,figma&perline=5"  style="margin: '10px'"/>
@@ -103,6 +103,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/nguyenhongtan/" margin="10px" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <div>  {"             "}</div>
   <a href="https://www.facebook.com/hongtan1422002/" margin="10px" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" alt="facebook" height="50" width="50" /></a>
 
 </p>
