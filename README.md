@@ -101,9 +101,9 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
+<p align="center" gap="15px">
 <a href="https://www.linkedin.com/in/nguyenhongtan/" margin="10px" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <div>  {"             "}</div>
+  <div>  </div>
   <a href="https://www.facebook.com/hongtan1422002/" margin="10px" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" alt="facebook" height="50" width="50" /></a>
 
 </p>
