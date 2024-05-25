@@ -21,32 +21,12 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Odoo, React, Nextjs, React Native, Nodejs, Java, MongoDB**
+- 🔭 I’m currently working on **Odoo, React, Nextjs, React Native, Nestjs, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.** 
 
 - 📫 Feel free to reach me out **hongtan.dev@gmail.com**
   
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&perline=5" margin="10px"/>
-    <br/> <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,express,graphql &perline=6"  style="margin: 10px;"/>   <br/> <br/>
-    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,css,sass&perline=5"  style="margin: 10px;"/>   <br/> <br/>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,dynamodb&perline=5" style="margin: 10px;"/>   <br/> <br/>
-<!--     <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,react,nextjs,nodejs,express,bootstrap,css,tailwind,mongodb,mysql,docker,aws,figma&perline=5" />
- -->
-        <img src="https://skillicons.dev/icons?i=docker,aws,webpack,jest,figma&perline=5"  style="margin: '10px'"/>
-
-  </a>
-</p>
 
 
 <!-- Connect with me -->
